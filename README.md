@@ -1,4 +1,4 @@
-### Hey, I'm Willem
+### Hey, I'm Willem 👋
 
 Co-founder & CTO at [Cleric](https://cleric.ai), where we're building an AI SRE that investigates production incidents autonomously.
 
